@@ -2,6 +2,28 @@
     margin: 0;
     padding: 0;
 }
+p {
+    color:black;
+    text-align: center;
+    font-weight: 700;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+h1{
+    color: purple
+} 
+
+h2 {
+    color: green
+}
+
+h3 {
+    color: blue;
+}
 
 .navigation{
    width: 100%;
